@@ -1,0 +1,11 @@
+:root {
+  --nodal-graphite: #0B0C0A; /* Primary background */
+  --nodal-graphite2: #151713; /* Raised surfaces */
+  --nodal-rule: #32362C; /* Lines and borders on dark */
+  --nodal-paper: #ECEAE2; /* Text and mark on dark */
+  --nodal-muted: #8D8B81; /* Secondary text on dark */
+  --nodal-lime: #C6F135; /* Signal — one accent per composition */
+  --nodal-lime-ink: #1B2400; /* Text on lime */
+  --nodal-ink: #121211; /* Text and mark on light */
+  --nodal-paper-light: #F3F1EA; /* Light background (docs, print) */
+}

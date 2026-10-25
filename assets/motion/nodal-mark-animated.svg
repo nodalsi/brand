@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="NODAL mark (motion concept)">
+  <title>NODAL mark (motion concept)</title>
+  <path d="M36 4V25M36 39V60" fill="none" stroke="#ECEAE2" stroke-width="5.5"/>
+  <path d="M5 13H16L27 24M5 51H16L27 40" fill="none" stroke="#ECEAE2" stroke-width="5.5" stroke-linejoin="miter"/>
+  <path d="M5 32H48" fill="none" stroke="#ECEAE2" stroke-width="5.5"/>
+  <rect x="48" y="26" width="12" height="12" fill="#C6F135"/>
+  <circle r="2.6" fill="#C6F135">
+    <animateMotion dur="2.4s" repeatCount="indefinite" path="M5 32H48" keyPoints="0;1;1" keyTimes="0;0.7;1" calcMode="linear"/>
+    <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.1;0.65;0.72"/>
+  </circle>
+</svg>

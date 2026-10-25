@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="NODAL mark (dark)">
+  <title>NODAL mark (dark)</title>
+  <path d="M36 4V25M36 39V60" fill="none" stroke="#ECEAE2" stroke-width="5.5"/>
+  <path d="M5 13H16L27 24M5 51H16L27 40" fill="none" stroke="#ECEAE2" stroke-width="5.5" stroke-linejoin="miter"/>
+  <path d="M5 32H48" fill="none" stroke="#ECEAE2" stroke-width="5.5"/>
+  <rect x="48" y="26" width="12" height="12" fill="#C6F135"/>
+</svg>
